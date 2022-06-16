@@ -8,13 +8,6 @@
 #  |:|  |    \:\/  /    |:/  /   \::/  /   \::/  / 
 #   \|__|     \/__/     \/__/     \/__/     \/__/  
 
-# Checklist
-#add other py methods
-#add methods to 
-#code a setup script
-#code a github update function
-#make a fetch update notes w github
-
 # Libraries
 import random, socket, time, threading, os, getpass, sys
 

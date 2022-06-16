@@ -15,9 +15,14 @@ clear
 echo "Installing required files for Kenos 70% [=======>--]"
 sudo apt install wget python
 clear
+echo "Installing required files for Kenos 90% [========>-]"
+sleep 1
+clear
 echo "Installing required files for Kenos 100% [=========>]"
 sleep 2
 clear
 echo "Cleaning up"
 sleep 2
 rm -rf installation.sh
+sleep 1
+python3 Kenos.py

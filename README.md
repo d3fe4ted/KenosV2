@@ -13,6 +13,5 @@ Installation is very easy just run the following command
 <a href="https://github.com/d3fe4ted/Kenos">Kenos</a> is a project I first thought of as a joke originating from the Geometry Dash map named "<a href="https://geometry-dash-fan.fandom.com/wiki/Kenos">Kenos</a>"
 
 # Recommended Hosting
-<li><a href="https://sacred.sbs/">Sacred Hosting</a>
 <li><a href="https://www.cloudways.com/en/">Cloudways</a>
 <li><a href="https://crazyrdp.com/linux-vps-hosting/">CrazyRDP</a>
